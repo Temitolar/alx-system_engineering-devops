@@ -1,0 +1,2 @@
+#!/bin/bsah
+find . -type d -not -nmae '.' | wc -l
